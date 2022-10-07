@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
+    "darkreader": "^4.7.15",
+    "js-cookie": "^2.2.1",
+    "markdown-it-task-lists": "^2.1.1",
+    "vuepress": "^1.2.0"
+  }
+}
