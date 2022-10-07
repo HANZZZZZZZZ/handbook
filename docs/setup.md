@@ -1,6 +1,4 @@
-# First Time Setup
-
-[[TOC]]
+# Getting Started Guide
 
 ## The Modpack
 
