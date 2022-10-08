@@ -12,7 +12,7 @@ Here are some brief examples of what we're talking about:
 - **Do not bring people's families into things** in a malicious manner, keep shit civil.
 - **Don't be an edge-lord.** It's just stupid, stop it, get some help.
 
-If you need any further information regarding this rule, please contact Cody on Discord.
+If you need any further information regarding this rule, please contact a Helper on Discord.
 
 ## 2. Discord Guidelines
 
@@ -24,7 +24,7 @@ We use Discord outside of sessions to coordinate and communicate with everyone m
 
 ### 3a. Member "Poaching"
 
-This is obviously strictly prohibited under any circumstances unless authorized by Cody himself, and will usually end in a ban of some sort for those involved.
+This is obviously strictly prohibited under any circumstances unless authorized by a Helper, and will usually end in a ban of some sort for those involved.
 
 ### 3b. Self Promotion
 
