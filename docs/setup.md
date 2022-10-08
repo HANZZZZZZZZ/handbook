@@ -18,7 +18,7 @@ Oh shit, a video!
 
 3. Under **Available Mods** enable the **Primary Session Branch** mod and then select the **Load Selected Mods** option to subscribe to and load our entire modpack.
 
-4. Wait for the launcher to download and enable the mods and then you’re all done! _Make sure to check the "magic number" in the Discord's schedule channel to ensure you have all the mods installed._
+4. Wait for the launcher to download and enable the mods and then you’re all done! _Make sure to check the "magic number" posted in the Discord announcement to ensure you have all the mods installed._
 
 ### Updating
 
