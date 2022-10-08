@@ -34,10 +34,6 @@ Installing and setting up ACRE2 is easy! When we use ACRE2 it is automatically i
 
 Make sure you disable Battleye when playing with us! To do this, just open the Arma 3 launcher, go to the "Battleye" option on the left side of it and untick "Enable BattlEye anti-cheat software."
 
-### In-Game Name
-
-You are required to change your in-game profile name to the shortened name assigned to you when you joined the unit. If you are unable to change the profile name, please create a new one with the name assigned. This simply used for identification purposes.
-
 ### Controls
 
 #### Grenade Throwing
