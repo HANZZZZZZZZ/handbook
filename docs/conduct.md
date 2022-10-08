@@ -17,15 +17,3 @@ If you need any further information regarding this rule, please contact a Helper
 ## 2. Discord Guidelines
 
 We use Discord outside of sessions to coordinate and communicate with everyone much easier than the Steam or TeamSpeak-only alternatives. By using Discord, you already agree to following the [guidelines](https://discordapp.com/guidelines), so as a unit hosted primarily on Discord we expect everyone to follow these guidelines by default.
-
-## 3. Third-Party Advertisement
-
-"Third-party" refers specifically to other units or communities that you are personally involved with. Referential language when talking about other communities is tolerated for obvious reasons, but any discussions about other groups is frowned upon in official UAG communication channels.
-
-### 3a. Member "Poaching"
-
-This is obviously strictly prohibited under any circumstances unless authorized by a Helper, and will usually end in a ban of some sort for those involved.
-
-### 3b. Self Promotion
-
-This refers to promoting your own content. Whether that be a twitch stream, other discords that you own, personal products or businesses will not be tolerated. If you would like to share any social media please contact a helper to get permission.
